@@ -1,6 +1,5 @@
-/* import all styles here */
-
 @import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
 @import url(../blocks/base/base.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/kaufman/kaufman.css);
