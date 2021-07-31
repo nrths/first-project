@@ -1,6 +1,6 @@
-@import url(./_theme/table__text_theme_dark.css);
+/*@import url(./_theme/table__text_theme_dark.css);*/
 .table__text {
   line-height: 1.2;
   font-size: 18px;
-  font-style: normal;
+  font-weight: 400;
 }
