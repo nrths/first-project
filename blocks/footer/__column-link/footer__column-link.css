@@ -1,14 +1,11 @@
 .footer__column-link {
+    display: block;
     color: white;
     text-decoration: none;
-    line-height: 30px; 
+    line-height: 18px; 
     font-size: 18px;
     font-weight: 400;
     margin-bottom: 10px;
-}
-
-.footer__column-link:nth-of-type(3n) {
-    margin-bottom: 0px;
 }
 
 .footer__column-link:hover {
