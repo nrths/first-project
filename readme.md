@@ -4,6 +4,7 @@
 ## Stack
 * HTML (семантическая верстка, API Youtube)
 * CSS (flexbox, анимации)
+* БЭМ
 ## Запуск проекта
 
 ```bash
